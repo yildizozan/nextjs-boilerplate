@@ -1,1 +1,1 @@
-# nextjs-boilerplate
+# Nextjs Boilerplate
